@@ -1,2 +1,2 @@
 # Design-and-Analysis-of-Algorithms
-Second Year Design and Analysis of Algorithms Tasks
+Second Year Computer Science: Design and Analysis of Algorithms Tasks
